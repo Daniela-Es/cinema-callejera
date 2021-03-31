@@ -1,0 +1,18 @@
+header{
+    height: 40vh;
+    width: 100vw;
+    /* background-color: brown; */
+    background-image: url("https://image.freepik.com/foto-gratis/composicion-elementos-cine-sobre-fondo-rojo-espacio-copia_23-2148457845.jpg") ;
+    
+}
+
+.sombra{
+    text-shadow: 2px 2px 2px black;
+}
+
+.footer{
+    height: 30vh;
+    width: 100vw;
+    background-image: url("https://image.freepik.com/vector-gratis/line-cinema-pattern_98292-2358.jpg");
+    color: black;
+}
